@@ -21,9 +21,9 @@ public class Numbers extends AppCompatActivity {
 
         final ArrayList<word> words=new ArrayList<word>();
         words.add(new word("lulli","one",R.drawable.number_one,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_one));
-        words.add(new word("lulli","one",R.drawable.number_two,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_two));
-        words.add(new word("lulli","one",R.drawable.number_three,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_three));
-        words.add(new word("lulli","one",R.drawable.number_four,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_four));
+        words.add(new word("otigo","two",R.drawable.number_two,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_two));
+        words.add(new word("tulukosu","three",R.drawable.number_three,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_three));
+        words.add(new word("lulli","four",R.drawable.number_four,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_four));
         words.add(new word("lulli","one",R.drawable.number_five,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_five));
         words.add(new word("lulli","one",R.drawable.number_six,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_six));
         words.add(new word("lulli","one",R.drawable.number_seven,R.drawable.baseline_play_arrow_black_18dp,R.raw.number_seven));
